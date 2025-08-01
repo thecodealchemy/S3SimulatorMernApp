@@ -3,6 +3,7 @@
 Create the database and bucket in AWS S3 console
 add .env files for backend and my-app
 
+```
 cd ./backend
 Run `npm install`
 Run `npm run dev`
@@ -11,6 +12,8 @@ Open `http://localhost:5000`
 cd ./my-app
 Run `npm install`
 Run `npm start`
+Open `http://localhost:3000`
+```
 
 ## 🛠️ API's
 
@@ -45,3 +48,7 @@ AWS_S3_BUCKET=your_bucket_name
 ```
 REACT_APP_API_BASE=http://localhost:5000
 ```
+
+Visuals:
+
+![alt text](image.png)

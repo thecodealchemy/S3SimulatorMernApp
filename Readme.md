@@ -52,3 +52,8 @@ REACT_APP_API_BASE=http://localhost:5000
 Visuals:
 
 ![alt text](image.png)
+
+
+## System Design:
+
+![alt text](S3SimulatorMernApp.jpg)

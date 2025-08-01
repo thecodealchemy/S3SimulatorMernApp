@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+
+# React
+my-app/node_modules/
+my-app/build/
+my-app/.env
+build/
+dist/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
